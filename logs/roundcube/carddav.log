@@ -1,0 +1,14 @@
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> In migration: 0000-dbinit
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> Found 7 matches
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> In migration: 0000-sample
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> Found 1 matches
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> In migration: 0001-categories
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> Found 1 matches
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> In migration: 0002-increasetextfieldlengths
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> Found 7 matches
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> In migration: 0003-fixtimestampdefaultvalue
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> Found 1 matches
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> In migration: 0004-fixtimestampdefaultvalue
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> Found 1 matches
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> In migration: 0005-changemysqlut8toutf8mb4
+[01-Jan-2021 22:26:08 +0300]: <35b9e77a> Found 1 matches

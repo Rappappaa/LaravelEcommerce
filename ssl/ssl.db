@@ -1,0 +1,55 @@
+--- 
+files: 
+  certificate: 
+    _wildcard__glutensizkuruyemis_com_cb2b2_a1bc3_1617309514_41f77403216e6dd345bed465d95ce253: 
+      created: '1609537114'
+      domains: 
+        - "*.glutensizkuruyemis.com"
+        - glutensizkuruyemis.com
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Cert for “glutensizkuruyemis.com”
+      id: _wildcard__glutensizkuruyemis_com_cb2b2_a1bc3_1617309514_41f77403216e6dd345bed465d95ce253
+      is_self_signed: 0
+      issuer.commonName: R3
+      issuer.organizationName: Let's Encrypt
+      key_algorithm: rsaEncryption
+      modulus: cb2b236dbdaced0367c47f0d1e8938ea35421cd6fb60d6b5a3b985fe4090b4f5ab6ed49e1eb3b2033866402ce84604d56f9abb64d7a68bf7df3e3719327747a0e212aa104728a626bdbec63834a5851e26835194a121d4f0516f483051854ed65e30c76db48edcf59b6fbc4b5eb67fc600c616d989e170ad225d5a9470473f5645ecc53def9f72e9b1a844ad3f8371792c8131a4e96b56ea21e7820dabcd6d4c780461fd2dc6fc2672f7394ca67b4700e43b8519281d6a7c4e35ab42580ca5c0498a4fa547de72a172467aa506a8259fc0f6d172193cd3debaaf0ffe084510c74b50407dc77aeae72a35e6241fabb03e7fa3810353c5c8e14ef419c4aa3a1bc3
+      modulus_length: 2048
+      not_after: '1617309514'
+      not_before: '1609533514'
+      serial: 0381197ebc04a6be64caa171b47bea0d3f8b
+      signature_algorithm: sha256WithRSAEncryption
+      subject.commonName: "*.glutensizkuruyemis.com"
+      validation_type: dv
+  key: 
+    cb2b2_a1bc3_a73779fefbfcec9d88b65b0a9962de09: 
+      created: '1609537114'
+      ecdsa_curve_name: ~
+      ecdsa_public: ~
+      friendly_name: Key for “glutensizkuruyemis.com”
+      id: cb2b2_a1bc3_a73779fefbfcec9d88b65b0a9962de09
+      key_algorithm: rsaEncryption
+      modulus: cb2b236dbdaced0367c47f0d1e8938ea35421cd6fb60d6b5a3b985fe4090b4f5ab6ed49e1eb3b2033866402ce84604d56f9abb64d7a68bf7df3e3719327747a0e212aa104728a626bdbec63834a5851e26835194a121d4f0516f483051854ed65e30c76db48edcf59b6fbc4b5eb67fc600c616d989e170ad225d5a9470473f5645ecc53def9f72e9b1a844ad3f8371792c8131a4e96b56ea21e7820dabcd6d4c780461fd2dc6fc2672f7394ca67b4700e43b8519281d6a7c4e35ab42580ca5c0498a4fa547de72a172467aa506a8259fc0f6d172193cd3debaaf0ffe084510c74b50407dc77aeae72a35e6241fabb03e7fa3810353c5c8e14ef419c4aa3a1bc3
+      modulus_length: 2048
+indexes: 
+  certificate: 
+    ecdsa_curve_name: {}
+
+    ecdsa_public: {}
+
+    modulus: 
+      cb2b236dbdaced0367c47f0d1e8938ea35421cd6fb60d6b5a3b985fe4090b4f5ab6ed49e1eb3b2033866402ce84604d56f9abb64d7a68bf7df3e3719327747a0e212aa104728a626bdbec63834a5851e26835194a121d4f0516f483051854ed65e30c76db48edcf59b6fbc4b5eb67fc600c616d989e170ad225d5a9470473f5645ecc53def9f72e9b1a844ad3f8371792c8131a4e96b56ea21e7820dabcd6d4c780461fd2dc6fc2672f7394ca67b4700e43b8519281d6a7c4e35ab42580ca5c0498a4fa547de72a172467aa506a8259fc0f6d172193cd3debaaf0ffe084510c74b50407dc77aeae72a35e6241fabb03e7fa3810353c5c8e14ef419c4aa3a1bc3: 
+        _wildcard__glutensizkuruyemis_com_cb2b2_a1bc3_1617309514_41f77403216e6dd345bed465d95ce253: ~
+    subject.commonName: 
+      "*.glutensizkuruyemis.com": 
+        _wildcard__glutensizkuruyemis_com_cb2b2_a1bc3_1617309514_41f77403216e6dd345bed465d95ce253: ~
+uniques: 
+  certificate: 
+    friendly_name: 
+      Cert for “glutensizkuruyemis.com”: _wildcard__glutensizkuruyemis_com_cb2b2_a1bc3_1617309514_41f77403216e6dd345bed465d95ce253
+  key: 
+    friendly_name: 
+      Key for “glutensizkuruyemis.com”: cb2b2_a1bc3_a73779fefbfcec9d88b65b0a9962de09
+    modulus:ecdsa_curve_name:ecdsa_public: 
+      cb2b236dbdaced0367c47f0d1e8938ea35421cd6fb60d6b5a3b985fe4090b4f5ab6ed49e1eb3b2033866402ce84604d56f9abb64d7a68bf7df3e3719327747a0e212aa104728a626bdbec63834a5851e26835194a121d4f0516f483051854ed65e30c76db48edcf59b6fbc4b5eb67fc600c616d989e170ad225d5a9470473f5645ecc53def9f72e9b1a844ad3f8371792c8131a4e96b56ea21e7820dabcd6d4c780461fd2dc6fc2672f7394ca67b4700e43b8519281d6a7c4e35ab42580ca5c0498a4fa547de72a172467aa506a8259fc0f6d172193cd3debaaf0ffe084510c74b50407dc77aeae72a35e6241fabb03e7fa3810353c5c8e14ef419c4aa3a1bc3: cb2b2_a1bc3_a73779fefbfcec9d88b65b0a9962de09

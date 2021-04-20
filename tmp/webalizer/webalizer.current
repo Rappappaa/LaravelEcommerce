@@ -1,0 +1,1125 @@
+# Webalizer V2.23-08 Incremental Data - 01/09/2021 21:44:08
+2021 1 9 21 44 8
+2521 2312 132 162 61 65 106558005 603 209 0
+13 6 546 1 9
+546 523 33693442 6 34 6
+706 681 34808554 22 96 30
+253 221 9585485 22 66 26
+72 62 1069773 15 26 12
+201 186 8719921 30 56 21
+303 261 5430047 27 169 41
+161 143 4573481 25 46 30
+176 159 6201617 22 66 28
+103 76 2475685 13 44 16
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+385 374 21322963 42
+164 146 5896455 48
+69 63 1451687 13
+71 69 2990045 10
+13 11 96521 2
+35 33 770338 8
+22 21 568511 6
+42 22 2771695 12
+51 47 2546367 4
+21 3 1641224 6
+22 15 654496 15
+60 55 932562 25
+145 137 4207629 26
+225 209 11404271 58
+156 139 1305723 105
+148 138 7744464 43
+61 53 788436 23
+79 71 2886438 23
+44 35 876612 34
+18 14 107223 12
+29 28 105846 19
+50 49 1043182 13
+56 49 681297 17
+555 531 33764020 39
+4
+0
+0
+2312
+0
+0
+0
+0
+0
+0
+0
+9
+64
+0
+0
+0
+0
+0
+0
+0
+10
+117
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/plugins/icheck-bootstrap/icheck-bootstrap.min.css
+0 8 0 12632 0 0
+/.well-known/acme-challenge/C-8AKRXW1S6C2615F9URYGO6UXXEPBCA
+0 1 0 64 0 0
+/images/products/400-gr-kavrulmus-tuzlu-kabak-cekirdegi.png
+0 28 0 3389301 0 0
+/images/products/500-gr-cig-badem.png
+0 9 0 1082226 0 0
+/yonetim/siparis-detay
+0 10 0 36983 0 0
+/images/products/500-gr-kavrulmus-tuzlu-kaju.png
+0 9 0 1047458 0 0
+/images/products/250-gr-siyah-cig-cekirdek.png
+0 1 0 132936 0 0
+/images/products/350-gr-besni-uzumu.png
+0 6 0 712236 0 0
+/images/products/500-gr-sade-leblebi.png
+0 8 0 1006214 0 0
+/images/products/250-gr-beyaz-cig-cekirdek.png
+0 1 0 123861 0 0
+/sitemap.xml
+0 4 0 1601 0 0
+/images/banners/home-banner-kucuk.png
+0 12 0 34677 0 0
+/images/aboutus.jpg
+0 1 0 24701 0 0
+/vendor/photoswipe/default-skin/default-skin.png
+0 2 18446744073709551615 1128 0 0
+/images/categories/kuruyemis.jpg
+0 27 0 4534315 0 0
+/yonetim/siparisler/odeme-bekleyen-siparisler
+0 3 0 9777 0 0
+/vendor/select2/js/select2.min.js
+0 36 18446744073709548440 797772 0 0
+/images/products/250-gr-kavrulmus-tuzlu-badem.png
+0 11 12 1303045 0 0
+/images/products/500-gr-kavrulmus-tuzlu-badem.png
+0 10 0 1160667 0 0
+/plugins/chart.js/Chart.min.js
+0 7 0 370489 0 0
+/glutensiz-magaza/glutensiz-kuruyemisler
+0 4 0 149324 0 0
+/yonetim/tum-urunler
+0 1 0 6077 0 0
+/images/analysis/soslu-misir.jpg
+0 1 0 80522 0 0
+/images/products/250-gr-kavrulmus-tuzlu-fistik.png
+0 9 0 1058668 0 0
+/kurumsal/satis-noktalarimiz
+0 1 0 5933 0 0
+/images/products/500-gr-antep-fistigi.png
+0 7 0 849391 0 0
+/plugins/jquery-knob/jquery.knob.min.js
+0 7 0 25270 0 0
+/vendor/photoswipe/photoswipe.css
+0 35 0 48262 0 0
+/plugins/jqvmap/jqvmap.min.css
+0 7 0 2009 0 0
+/kurumsal/kargo-ve-teslimat
+0 1 0 5931 0 0
+/vendor/fontawesome/webfonts/fa-regular-400.woff2
+0 29 0 393936 0 0
+/yonetim/siparisler/iptal-edilen-siparisler
+0 4 0 11778 0 0
+/images/favicon.png
+0 12 0 55167 0 0
+/images/products/250-gr-beyaz-leblebi.png
+0 13 0 1638832 0 0
+/.well-known/acme-challenge/KPV087BS7TQR8VDCCY-KESEEDZ0FHP59
+0 1 0 64 0 0
+/yonetim/istatistikler/banka-transferi-satislari
+0 1 0 3891 0 0
+/images/products/250-gr-fistik-seker.png
+0 1 0 132099 0 0
+/glutensiz-magaza
+0 1 0 13896 0 0
+/.well-known/acme-challenge/AUB21-L5AYR0A-7488PAS30P7403SFSN
+0 1 0 64 0 0
+/kurumsal/is-ortakligi
+0 1 0 5925 1 1
+/yonetim/siparisi-yazdir
+0 3 0 4002 0 0
+/dist/css/adminlte.min.css
+0 9 0 668367 0 0
+/images/products/250-gr-kavrulmus-tuzlu-findik.png
+0 1 0 126696 0 0
+/images/products/500-gr-cig-findik.png
+0 1 0 120056 0 0
+/vendor/owl-carousel/assets/owl.carousel.min.css
+0 34 0 38342 0 0
+/images/products/400-gr-cig-kabak-cekirdegi.png
+0 1 0 127033 0 0
+/plugins/summernote/summernote-bs4.css
+0 7 0 26313 0 0
+/glutensiz-urunler/glutensiz-kavrulmus-tuzsuz-fistik-250-gr
+0 3 0 30976 0 0
+/vendor/bootstrap/js/bootstrap.bundle.min.js.map
+0 14 0 4452630 0 0
+/yonetim/giris-yap
+0 31 0 31475 1 2
+/images/products/250-gr-beyaz-kavrulmus-tuzlu-cekirdek.png
+0 28 0 3441587 0 0
+/images/products/500-gr-kavrulmus-tuzlu-fistik.png
+0 12 0 1423676 0 0
+/plugins/jqvmap/maps/jquery.vmap.usa.js
+0 7 0 139699 0 0
+/vendor/bootstrap/css/bootstrap.min.css
+0 36 0 1005987 0 0
+/images/products/400-gr-kavrulmus-tuzsuz-kabak-cekirdegi.png
+0 1 0 124545 0 0
+/glutensiz-urunler/glutensiz-findik-seker-500-gr
+0 4 0 41979 1 0
+/images/products/500-gr-tuzlu-leblebi.png
+0 9 0 1090176 0 0
+/glutensiz-urunler/glutensiz-antep-fistigi-250-gr
+0 4 0 41326 1 1
+/images/logo.png
+0 27 0 1534521 0 0
+/favicon.ico
+0 95 0 0 0 0
+/.well-known/acme-challenge/_B6MFB703GWXW0BPBR1Y22LY3ZSSG-HG
+0 1 0 64 0 0
+/images/logos/footer_ssl.webp
+0 28 0 333196 0 0
+/glutensiz-urunler/glutensiz-soslu-misir-400-gr
+0 1 0 8710 0 0
+/fonts/stroyka/stroyka.css
+0 34 0 8874 0 0
+/images/banners/home-banner-buyuk.png
+0 16 0 45987 0 0
+/images/products/250-gr-sekerli-leblebi.png
+0 29 0 3815070 0 0
+/plugins/daterangepicker/daterangepicker.css
+0 7 0 11319 0 0
+/dist/js/adminlte.min.js
+0 10 0 62430 0 0
+/images/products/500-gr-kavrulmus-tuzsuz-findik.png
+0 9 0 1071156 0 0
+/images/products/250-gr-kavrulmus-tuzsuz-fistik.png
+0 29 0 3440489 0 0
+/images/products/500-gr-kavrulmus-tuzsuz-fistik.png
+0 10 0 1181246 0 0
+/plugins/overlayScrollbars/js/jquery.overlayScrollbars.min.js
+0 7 0 134743 0 0
+/images/products/500-gr-fistik-seker.png
+0 1 0 130379 0 0
+/vendor/owl-carousel/owl.carousel.min.js
+0 35 0 444270 0 0
+/.well-known/acme-challenge/P0TC-PEN9V1AN57PZIYM0WF3E5AACGRJ
+0 1 0 64 0 0
+/vendor/nouislider/nouislider.min.js
+0 35 0 311425 0 0
+/yonetim/siparisler/kargolanmis-siparisler
+0 14 0 48371 1 2
+/plugins/overlayScrollbars/css/OverlayScrollbars.min.css
+0 7 0 31906 0 0
+/images/analysis/findik.jpg
+0 2 0 162580 0 0
+/images/products/250-gr-findik-seker.png
+0 28 0 3451916 0 0
+/css/style.css
+0 36 0 1863965 0 0
+/images/products/250-gr-tuzlu-leblebi.png
+0 7 3832061034533814272 838978 0 0
+/images/products/250-gr-kavrulmus-tuzsuz-findik.png
+0 28 3687943647387923761 3332818 0 0
+/plugins/sparklines/sparkline.js
+0 7 0 13531 0 0
+/images/products/250-gr-antep-fistigi.png
+0 28 3474018232865993005 3338492 0 0
+/plugins/daterangepicker/daterangepicker.js
+0 7 3759720866010446129 81389 0 0
+/vendor/jquery/jquery.min.js
+0 36 7092150665747628032 1224502 0 0
+/js/main.js
+0 36 3531103582835179520 201071 0 0
+/vendor/photoswipe/photoswipe.min.js
+0 34 8102927005708726573 450129 0 0
+/vendor/svg4everybody/svg4everybody.min.js
+0 33 0 33494 0 0
+/plugins/fontawesome-free/css/all.min.css
+0 9 0 113733 0 0
+/yonetim/tum-kullanicilar
+0 15 0 53902 1 1
+/images/products/400-gr-soslu-misir.png
+0 27 0 3179508 0 0
+/plugins/summernote/summernote-bs4.min.js
+0 7 0 262388 0 0
+/images/analysis/antep-fistigi.jpg
+0 1 0 89439 0 0
+/vendor/bootstrap/js/bootstrap.bundle.min.js
+0 33 0 842529 0 0
+/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+0 11 1049073305921130197 873884 0 0
+/js/number.js
+0 34 0 48175 0 0
+/images/products/500-gr-kavrulmus-tuzlu-findik.png
+0 1 0 130183 0 0
+/images/products/250-gr-siyah-kavrulmus-tuzlu-cekirdek.png
+0 28 0 3726876 0 0
+/glutensiz-magaza/glutensiz-fistiklar
+0 3 0 28265 0 0
+/plugins/moment/moment.min.js
+0 7 0 120400 0 0
+/images/products/250-gr-antep-fistigi.jpf
+0 5 0 549824 0 0
+/yonetim/siparisler/gonderilecek-siparisler
+0 18 0 60117 0 1
+/plugins/jqvmap/jquery.vmap.min.js
+0 7 0 42840 0 0
+/yonetim/istatistikler
+0 5 0 19897 0 0
+/images/products/500-gr-findik-seker.png
+0 28 0 3368513 0 0
+/images/products/500-gr-badem-seker.png
+0 1 0 130488 0 0
+/dist/js/pages/dashboard.js
+0 7 0 16723 0 0
+/kurumsal/iletisim
+0 2 0 13524 0 0
+/vendor/fontawesome/css/all.min.css
+0 34 0 445695 0 0
+/images/products/250-gr-cig-findik.png
+0 1 0 119069 0 0
+/dist/js/demo.js
+0 7 0 15820 0 0
+/images/products/500-gr-beyaz-leblebi.png
+0 11 3543829576003628597 1375651 0 0
+/.well-known/acme-challenge/XATTRKKW83-XYHN0WCYT2JDKLYM1_YVM
+0 1 7163376947542189102 64 0 0
+/images/products/500-gr-acili-leblebi.png
+0 1 3834583331441356086 131949 0 0
+/vendor/fontawesome/webfonts/fa-brands-400.woff2
+0 29 3615605682163233842 2184744 0 0
+/yonetim/siparisler/tum-siparisler
+0 35 7021783620675174400 118931 3 3
+/.well-known/acme-challenge/O76QX3ZWFBK60UGIER7WJU7A6060OE32
+0 1 7434935251759871030 64 0 0
+/yonetim/siparisler/tamamlanmis-siparisler
+0 7 3616721673663623986 23031 0 0
+/kurumsal/mesafeli-satis-sozlesmesi
+0 2 87314615879872055 11901 1 1
+/plugins/bootstrap/js/bootstrap.bundle.min.js
+0 9 3615890429988190257 204930 0 0
+/images/analysis/fistik.jpg
+0 2 3543825160843703095 184536 0 0
+/images/products/500-gr-cig-fistik.png
+0 1 7782555718421196853 115783 0 0
+/vendor/photoswipe/photoswipe-ui-default.min.js
+0 34 3832618456900972846 135433 0 0
+/vendor/photoswipe/default-skin/default-skin.css
+0 35 109 114584 0 0
+/images/sprite.svg
+0 32 72057594037927936 236869 0 0
+/
+0 174 0 9425774 119 48
+/kurumsal/hakkimizda
+0 2 0 14113 0 0
+/images/products/250-gr-cig-badem.png
+0 5 0 598629 0 0
+/glutensiz-magaza/glutensiz-soslu-kuruyemisler
+0 2 0 16155 0 0
+/images/products/250-gr-kavrulmus-tuzlu-kaju.png
+0 7 0 815196 0 0
+/js/header.js
+0 35 0 255490 0 0
+/kurumsal/gizlilik-politikamiz
+0 1 0 5935 0 0
+/images/products/250-gr-sade-leblebi.png
+0 11 0 1338408 0 0
+/.well-known/acme-challenge/AN52ZL9P5XDD6SC-TUYNBMNW335TN-Y2
+0 1 0 64 0 0
+/images/products/250-gr-acili-leblebi.png
+0 1 0 128221 0 0
+/kurumsal/site-haritasi
+0 2 0 11869 1 0
+/glutensiz-urunler/glutensiz-findik-seker-250-gr
+0 1 0 10364 1 0
+/plugins/jquery-ui/jquery-ui.min.js
+0 7 0 476294 0 0
+/glutensiz-urunler/glutensiz-besni-uzumu-350-gr
+0 1 0 8712 0 0
+/images/products/500-gr-sekerli-leblebi.png
+0 9 0 1173782 0 0
+/images/footer-logo.png
+0 7 0 19362 0 0
+/plugins/jquery/jquery.min.js
+0 9 0 278730 0 0
+/dist/js/adminlte.js
+0 7 0 63588 0 0
+/.well-known/acme-challenge/8XCY7_PSREKRRFGJW8LD98IM3W8PU8N2
+0 1 0 64 0 0
+/images/analysis/besni-uzumu.jpg
+0 1 0 80590 0 0
+/images/slider/slider-buyuk.png
+0 24 0 491029 0 0
+/yonetim/siparisler/hazirlanacak-siparisler
+0 9 0 29827 0 0
+/vendor/photoswipe/default-skin/default-skin.svg
+0 1 0 616 0 0
+/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js
+0 7 0 85162 0 0
+/robots.txt
+0 62 0 1464 0 0
+/plugins/tempusdominus-bootstrap-4/css/tempusdominus-bootstrap-4.min.css
+0 7 0 11165 0 0
+/glutensiz-urunler/glutensiz-kavrulmus-siyah-cekirdek-250-gr
+0 1 0 10106 1 0
+/vendor/fontawesome/webfonts/fa-solid-900.woff2
+0 29 0 2196112 0 0
+/images/products/250-gr-badem-seker.png
+0 1 0 131964 0 0
+/yonetim
+0 107 0 341991 45 36
+/yonetim/cikti
+0 4 0 22528 0 0
+/images/products/250-gr-beyaz-kavrulmus-tuzsuz-cekirdek.png
+0 9 0 1123193 0 0
+/vendor/select2/css/select2.min.css
+0 34 0 80149 0 0
+/images/products/250-gr-siyah-kavrulmus-tuzsuz-cekirdek.png
+0 27 0 3580579 0 0
+/images/products/250-gr-cig-fistik.png
+0 1 0 117883 0 0
+# End Of Table - urls
+# -sites- (monthly)
+77-88-9-10.spider.yandex.com
+0 18 18 253007 1 1609690319
+/
+fwdproxy-rva-011.fbsv.net
+0 2 2 241443 0 0
+-
+s27.cyber-folks.pl
+0 2 0 45823 1 1610028639
+-
+crawl-66-249-66-46.googlebot.com
+0 2 1 30886 1 1609981256
+/
+petalbot-114-119-156-46.aspiegel.com
+0 1 1 24 0 0
+-
+crawl-66-249-64-218.googlebot.com
+0 3 2 55032 1 1610054040
+/
+petalbot-114-119-139-107.aspiegel.com
+0 1 1 10364 1 1609719697
+/glutensiz-urunler/glutensiz-findik-seker-250-gr
+google-proxy-66-249-93-102.google.com
+0 244 230 15543972 2 1609595679
+/
+fwdproxy-rva-005.fbsv.net
+0 5 5 505440 1 1609860211
+/
+fwdproxy-rva-111.fbsv.net
+0 2 2 233913 0 0
+-
+ec2-18-236-227-245.us-west-2.compute.amazonaws.com
+0 1 1 0 0 0
+-
+petalbot-114-119-159-58.aspiegel.com
+0 1 1 24 0 0
+-
+petalbot-114-119-140-170.aspiegel.com
+0 2 2 129236 1 1609849668
+/kurumsal/site-haritasi
+ip-167-114-250.eu
+0 2 1 18141 1 1610041972
+/
+r-132-211-75-184.consumer-pool.prcdn.net
+0 5 5 45806 1 1609940545
+/glutensiz-magaza/glutensiz-fistiklar
+petalbot-114-119-132-173.aspiegel.com
+0 1 1 24 0 0
+-
+petalbot-114-119-147-91.aspiegel.com
+0 2 2 16031 2 1610053921
+/glutensiz-urunler/glutensiz-kavrulmus-siyah-cekirdek-250-gr
+fwdproxy-rva-016.fbsv.net
+0 2 2 236736 0 0
+-
+195-244-57-42-static.cesur.net.tr
+0 2 2 46208 1 1609546230
+/
+fwdproxy-rva-012.fbsv.net
+0 2 2 24124 1 1609860213
+/
+host-82-222-132-99.reverse.superonline.net
+0 50 49 2722269 1 1610126003
+/glutensiz-urunler/glutensiz-soslu-misir-400-gr
+crawl-66-249-75-128.googlebot.com
+0 4 4 59051 0 0
+-
+msnbot-13-66-139-128.search.msn.com
+0 2 0 11770 0 0
+-
+51.79.102.163
+0 1 1 12293 1 1609574423
+/
+crawl-66-249-66-218.googlebot.com
+0 1 1 23075 1 1609947225
+/
+serviciosempresarialesperu.com
+0 2 0 45817 1 1609544964
+-
+95.8.79.192.dynamic.ttnet.com.tr
+0 124 103 299666 5 1609962340
+/yonetim
+fwdproxy-rva-015.fbsv.net
+0 1 1 132621 0 0
+-
+msnbot-40-77-188-126.search.msn.com
+0 24 24 387940 0 0
+-
+ec2-52-86-185-29.compute-1.amazonaws.com
+0 3 3 862 0 0
+-
+petalbot-114-119-159-160.aspiegel.com
+0 1 1 24 0 0
+-
+crawl-66-249-66-78.googlebot.com
+0 2 2 77257 0 0
+-
+bot.h12-media.com
+0 1 1 12242 1 1609989081
+/
+46.101.24.200
+0 2 2 811 0 0
+-
+305xgeq.ni.net.tr
+0 15 14 2182150 2 1609651629
+/
+crawl-66-249-64-214.googlebot.com
+0 6 5 64449 2 1610054045
+/
+msnbot-207-46-13-168.search.msn.com
+0 1 1 12381 1 1609684678
+/
+msnbot-207-46-13-97.search.msn.com
+0 2 0 11766 1 1610204798
+-
+77-88-9-11.spider.yandex.com
+0 4 4 29658 2 1609888832
+/
+132.232.75.2
+0 2 2 24456 1 1610077294
+/
+crawl-66-249-75-130.googlebot.com
+0 2 2 46064 1 1609909588
+/
+88.241.88.106.dynamic.ttnet.com.tr
+0 46 45 2510624 1 1609677578
+/
+msnbot-207-46-13-126.search.msn.com
+0 1 0 5888 1 1610124841
+-
+46.17.106.61
+0 1 1 265472 1 1609814685
+/
+google-proxy-66-249-93-99.google.com
+0 2 2 27715 1 1609547620
+/
+46.101.24.81
+0 1 1 12248 1 1609742797
+/
+crawl-66-249-64-186.googlebot.com
+0 7 7 149625 3 1610054043
+/
+fwdproxy-rva-117.fbsv.net
+0 1 1 167501 0 0
+-
+msnbot-157-55-39-251.search.msn.com
+0 4 3 5959 1 1609830928
+-
+crawl-66-249-66-38.googlebot.com
+0 12 11 198119 6 1609982178
+/
+crawl-66-249-64-184.googlebot.com
+0 8 7 88008 4 1610048129
+-
+infong-uk74.clienthosting.eu
+0 2 0 45813 1 1609551642
+-
+88.242.34.113.dynamic.ttnet.com.tr
+0 61 59 570610 4 1609868388
+/yonetim
+95.8.96.106.dynamic.ttnet.com.tr
+0 68 66 3969169 1 1609634358
+/kurumsal/hakkimizda
+124.89.86.28
+0 74 74 3539830 2 1609990108
+/
+fwdproxy-rva-014.fbsv.net
+0 4 4 493818 0 0
+-
+msnbot-40-77-167-58.search.msn.com
+0 1 0 5888 1 1610189922
+-
+crawl-66-249-69-218.googlebot.com
+0 3 3 70335 3 1610128870
+/
+msnbot-207-46-13-169.search.msn.com
+0 1 1 12247 1 1610138452
+/
+dr-wolfe.w3.org
+0 1 1 12341 1 1609547924
+/
+ec2-54-202-192-71.us-west-2.compute.amazonaws.com
+0 2 2 131072 1 1609744091
+/
+77-88-9-13.spider.yandex.com
+0 36 35 343902 5 1610018563
+/
+88.254.167.128.dynamic.ttnet.com.tr
+0 484 459 18169061 28 1609895009
+/yonetim/siparis-detay
+msnbot-207-46-13-0.search.msn.com
+0 1 0 5877 0 0
+-
+crawl-66-249-75-182.googlebot.com
+0 3 3 46155 2 1610128865
+/
+petalbot-114-119-157-199.aspiegel.com
+0 2 2 16428 2 1609732904
+/glutensiz-urunler/glutensiz-findik-seker-500-gr
+static-2-33-68-212.sadecehosting.net
+0 2 2 0 1 1609546292
+/
+crawl-66-249-66-41.googlebot.com
+0 13 9 195880 6 1609981978
+-
+5.46.53.92
+0 101 98 5136960 1 1609550869
+/yonetim/siparisler/tum-siparisler
+185.44.192.116
+0 1 1 12309 1 1609854215
+/
+petalbot-114-119-141-249.aspiegel.com
+0 1 1 24 0 0
+-
+uoprir.com
+0 17 3 1428823 1 1610183412
+/
+crawl-66-249-66-152.googlebot.com
+0 2 1 21667 1 1609951593
+-
+petalbot-114-119-159-123.aspiegel.com
+0 1 1 24 0 0
+-
+petalbot-114-119-136-208.aspiegel.com
+0 1 1 12350 1 1609617970
+/
+petalbot-114-119-150-56.aspiegel.com
+0 1 1 24 0 0
+-
+crawl-66-249-66-77.googlebot.com
+0 1 1 1459 0 0
+-
+petalbot-114-119-133-108.aspiegel.com
+0 1 1 24 0 0
+-
+130.61.111.95
+0 2 0 167066 1 1609727182
+/
+crawl-66-249-64-216.googlebot.com
+0 8 3 157501 2 1610041321
+-
+fwdproxy-rva-002.fbsv.net
+0 1 1 120253 0 0
+-
+crawl-prod-8.babbar.eu
+0 2 2 12199 1 1609671166
+/
+msnbot-157-55-39-37.search.msn.com
+0 4 4 96 0 0
+-
+crawl-66-249-66-140.googlebot.com
+0 2 2 4720 0 0
+-
+77-88-9-9.spider.yandex.com
+0 2 2 19823 0 0
+-
+google-proxy-66-249-93-109.google.com
+0 201 199 12125863 2 1609546894
+/
+crawl-66-249-66-136.googlebot.com
+0 1 1 22988 1 1609947222
+/
+msnbot-157-55-39-220.search.msn.com
+0 1 0 5872 1 1609853265
+-
+d11118.artnet.gda.pl
+0 21 3 1608729 1 1609658170
+/
+crawl-66-249-66-138.googlebot.com
+0 2 2 30879 1 1609947221
+/
+vps-68-139.nvhost.ru
+0 8 2 358624 1 1609958677
+-
+crawl-66-249-69-216.googlebot.com
+0 8 8 143173 5 1610135507
+/
+petalbot-114-119-147-73.aspiegel.com
+0 1 1 24 0 0
+-
+host-176-41-198-112.reverse.superonline.net
+0 79 74 4746410 1 1609861257
+/glutensiz-urunler/glutensiz-besni-uzumu-350-gr
+216.244.66.195
+0 29 15 900837 14 1610222227
+-
+88.226.33.143.static.ttnet.com.tr
+0 44 37 528217 3 1609788534
+/yonetim
+95.0.51.254.static.ttnet.com.tr
+0 4 4 994086 4 1610112018
+/
+msnbot-207-46-13-51.search.msn.com
+0 4 3 5951 0 0
+-
+85.96.87.72.dynamic.ttnet.com.tr
+0 39 35 96910 4 1610124487
+/yonetim
+173.46.87.206
+0 1 0 698 1 1610136143
+/
+84.201.139.177
+0 1 1 265505 1 1610205640
+/
+191.96.95.83
+0 1 1 12228 1 1609744775
+/
+134.122.3.184
+0 2 2 24467 1 1610000785
+/
+ec2-3-236-202-44.compute-1.amazonaws.com
+0 1 1 265667 1 1609859312
+/
+crawl-66-249-64-182.googlebot.com
+0 11 11 145958 5 1610158733
+/
+80.50.141.118
+0 1 1 12142 1 1610110170
+/
+google-proxy-66-249-93-105.google.com
+0 219 214 13054879 3 1609595674
+/
+ec2-18-209-213-121.compute-1.amazonaws.com
+0 1 1 266002 1 1609669118
+/
+srvc50.turhost.com
+0 9 9 576 0 0
+-
+ec2-34-223-23-120.us-west-2.compute.amazonaws.com
+0 1 1 12336 1 1609874007
+/
+136-143-205-88.woodstocktel.net
+0 1 1 22985 1 1609869124
+/
+77-88-9-5.spider.yandex.com
+0 1 1 38680 0 0
+-
+static.103.205.203.116.clients.your-server.de
+0 2 0 167060 1 1610209531
+/
+crawl-66-249-69-214.googlebot.com
+0 3 3 65808 1 1610069006
+/
+46.196.77.203
+0 42 42 2343809 1 1610095651
+/
+143.110.187.127
+0 2 0 167057 1 1610027232
+/
+msnbot-207-46-13-161.search.msn.com
+0 4 4 96 0 0
+-
+crawl-66-249-75-184.googlebot.com
+0 3 3 31993 0 0
+-
+ec2-3-237-87-46.compute-1.amazonaws.com
+0 1 1 265979 1 1609869879
+/
+crawl-66-249-75-120.googlebot.com
+0 15 15 528463 3 1609914698
+/
+ec2-18-144-2-154.us-west-1.compute.amazonaws.com
+0 2 1 12965 1 1609983077
+/
+cp-46.webhostbox.net
+0 2 0 45817 1 1610099932
+-
+20.40.248.175
+0 1 0 5927 0 0
+-
+194.156.239.239.kocaeli-xdsl.tbtnet.net
+0 46 45 2488013 1 1609547924
+-
+185.217.117.132
+0 4 0 333644 2 1609586199
+/
+petalbot-114-119-134-121.aspiegel.com
+0 1 1 24 0 0
+-
+msnbot-157-55-39-55.search.msn.com
+0 1 0 5872 1 1610181651
+-
+crawl-66-249-75-122.googlebot.com
+0 12 12 490251 4 1609914739
+/
+81.213.68.143.dynamic.ttnet.com.tr
+0 98 85 846951 10 1610228646
+/yonetim
+crawl-66-249-66-74.googlebot.com
+0 1 1 23076 1 1609947228
+/
+crawl-66-249-66-44.googlebot.com
+0 9 9 188618 2 1609981260
+/
+crawl-66-249-75-118.googlebot.com
+0 41 40 1108133 1 1609912441
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+msnbot-40-77-188-126.search.msn.com
+0 24 24 387940 0 0
+-
+petalbot-114-119-159-160.aspiegel.com
+0 1 1 24 0 0
+-
+msnbot-207-46-13-97.search.msn.com
+0 1 0 5883 1 1610204798
+-
+msnbot-40-77-167-58.search.msn.com
+0 1 0 5888 1 1610189922
+-
+uoprir.com
+0 17 3 1428823 1 1610183412
+/
+msnbot-157-55-39-37.search.msn.com
+0 2 2 48 0 0
+-
+216.244.66.195
+0 4 2 90685 2 1610222227
+-
+msnbot-207-46-13-51.search.msn.com
+0 1 1 24 0 0
+-
+84.201.139.177
+0 1 1 265505 1 1610205640
+/
+crawl-66-249-64-182.googlebot.com
+0 1 1 23037 1 1610158733
+/
+static.103.205.203.116.clients.your-server.de
+0 2 0 167060 1 1610209531
+/
+msnbot-157-55-39-55.search.msn.com
+0 1 0 5872 1 1610181651
+-
+81.213.68.143.dynamic.ttnet.com.tr
+0 47 41 94896 7 1610228646
+/yonetim
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.glutensizkuruyemis.com/yonetim/siparisler/hazirlanacak-siparisler
+0 5
+http://glutensizkuruyemis.com/vendor/photoswipe/default-skin/default-skin.css
+0 3
+http://glutensizkuruyemis.com/yonetim/siparisler/odeme-bekleyen-siparisler
+0 3
+http://www.glutensizkuruyemis.com/yonetim/siparisler/tum-siparisler
+0 13
+http://www.glutensizkuruyemis.com/plugins/fontawesome-free/css/all.min.css
+0 2
+http://glutensizkuruyemis.com/plugins/fontawesome-free/css/all.min.css
+0 9
+http://www.glutensizkuruyemis.com/yonetim/siparisler/tamamlanmis-siparisler
+0 3
+https://l.instagram.com/
+0 3
+http://glutensizkuruyemis.com/glutensiz-magaza/glutensiz-soslu-kuruyemisler
+0 1
+http://glutensizkuruyemis.com/yonetim/istatistikler/banka-transferi-satislari
+0 1
+http://glutensizkuruyemis.com/kurumsal/mesafeli-satis-sozlesmesi
+0 1
+http://www.glutensizkuruyemis.com
+0 1
+http://www.glutensizkuruyemis.com/yonetim/istatistikler
+0 1
+http://glutensizkuruyemis.com/kurumsal/site-haritasi
+0 1
+http://glutensizkuruyemis.com/yonetim/siparisler/kargolanmis-siparisler
+0 15
+http://www.glutensizkuruyemis.com/yonetim/siparisler/gonderilecek-siparisler
+0 6
+http://glutensizkuruyemis.com/
+0 1117
+http://glutensizkuruyemis.com/kurumsal/satis-noktalarimiz
+0 1
+http://www.glutensizkuruyemis.com/yonetim/siparis-detay
+0 3
+http://glutensizkuruyemis.com
+0 6
+http://glutensizkuruyemis.com/vendor/fontawesome/css/all.min.css
+0 75
+https://www.glutensizkuruyemis.com/glutensiz-magaza
+0 1
+http://glutensizkuruyemis.com/glutensiz-magaza/glutensiz-fistiklar
+0 5
+http://glutensizkuruyemis.com/admin
+0 1
+- (Direct Request)
+0 412
+http://glutensizkuruyemis.com/yonetim/siparisler/hazirlanacak-siparisler
+0 17
+http://www.glutensizkuruyemis.com/yonetim/tum-kullanicilar
+0 2
+http://glutensizkuruyemis.com/yonetim/siparis-detay
+0 9
+http://glutensizkuruyemis.com/css/style.css
+0 1
+http://glutensizkuruyemis.com/glutensiz-magaza/glutensiz-kuruyemisler
+0 16
+http://glutensizkuruyemis.com/glutensiz-urunler/glutensiz-antep-fistigi-250-gr
+0 8
+http://glutensizkuruyemis.com/kurumsal/kargo-ve-teslimat
+0 1
+http://glutensizkuruyemis.com/kurumsal/gizlilik-politikamiz
+0 1
+http://www.glutensizkuruyemis.com/
+0 161
+http://glutensizkuruyemis.com/glutensiz-urunler/glutensiz-besni-uzumu-350-gr
+0 1
+http://glutensizkuruyemis.com/app
+0 23
+http://glutensizkuruyemis.com/yonetim/siparisler/gonderilecek-siparisler
+0 24
+http://glutensizkuruyemis.com/glutensiz-urunler/glutensiz-soslu-misir-400-gr
+0 1
+http://glutensizkuruyemis.com/yonetim
+0 185
+http://www.glutensizkuruyemis.com/yonetim/giris-yap
+0 34
+http://www.glutensizkuruyemis.com/yonetim/siparisler/kargolanmis-siparisler
+0 5
+http://www.glutensizkuruyemis.com/glutensiz-magaza/glutensiz-fistiklar
+0 2
+http://www.glutensizkuruyemis.com/glutensiz-magaza
+0 8
+http://www.glutensizkuruyemis.com/yonetim/siparisler/odeme-bekleyen-siparisler
+0 2
+http://www.glutensizkuruyemis.com/yonetim
+0 51
+http://www.glutensizkuruyemis.com/glutensiz-magaza/glutensiz-kuruyemisler
+0 9
+https://glutensizkuruyemis.com/kurumsal/iletisim
+0 1
+http://www.glutensizkuruyemis.com/glutensiz-urunler/glutensiz-findik-seker-500-gr
+0 1
+http://glutensizkuruyemis.com/yonetim/giris-yap
+0 110
+http://glutensizkuruyemis.com/yonetim/siparisler/iptal-edilen-siparisler
+0 5
+http://glutensizkuruyemis.com/config
+0 1
+http://glutensizkuruyemis.com/glutensiz-urunler/glutensiz-kavrulmus-tuzsuz-fistik-250-gr
+0 7
+http://glutensizkuruyemis.com/glutensiz-urunler/glutensiz-findik-seker-500-gr
+0 2
+http://glutensizkuruyemis.com/yonetim/tum-urunler
+0 34
+http://glutensizkuruyemis.com/yonetim/tum-kullanicilar
+0 35
+http://www.glutensizkuruyemis.com/vendor/fontawesome/css/all.min.css
+0 12
+http://www.google.com/
+0 8
+http://glutensizkuruyemis.com/yonetim/siparisler/tamamlanmis-siparisler
+0 8
+http://glutensizkuruyemis.com/kurumsal/iletisim
+0 1
+http://glutensizkuruyemis.com/yonetim/siparisler/tum-siparisler
+0 42
+http://glutensizkuruyemis.com/yonetim/istatistikler
+0 4
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (compatible; TestBot/0.1; +In_the_test_phase,_if_the_spider_brings_you_trouble,_please_add_our_IP_to_the_blacklis
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.13) Gecko/20080311 Firefox/2.0.0.13
+0 1
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322; Media Center PC 4.0
+0 2
+Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/87.0.42
+0 20
+Mozilla/5.0 (compatible; DotBot/1.1; http://www.opensiteexplorer.org/dotbot, help@moz.com)
+0 29
+User-Agent\" \"Mozilla/5.0 (Windows NT 6.1;) Gecko/20100101 Firefox/13.0.1
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36
+0 846
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2 YE
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
+0 24
+Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.77 Safari/535.7
+0 1
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:36.0) Gecko/20100101 Firefox/36.0
+0 1
+Validator.nu/LV http://validator.w3.org/services
+0 1
+Mozilla/5.0 (compatible; alexa site audit/1.0; +http://www.alexa.com/help/webmasters; )
+0 3
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+0 24
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 1
+Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
+0 27
+python-requests/2.24.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-A705FN) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+0 68
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0
+0 2
+Mozilla/5.0 (Linux; Android 10; SM-A750F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36
+0 50
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:84.0) Gecko/20100101 Firefox/84.0
+0 1
+Go-http-client/1.1
+0 1
+Mozilla/5.0 (Macintosh; Intel Mac OS X 11_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.2 Safari/605.1.15
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0 Safari/537.36
+0 17
+Googlebot-Image/1.0
+0 11
+Mozilla/5.0 (compatible; Barkrowler/0.9; +https://babbar.tech/crawler)
+0 2
+Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.40 Safari/530.5
+0 1
+(compatible;PetalBot;+https://aspiegel.com/petalbot)
+0 10
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FREE; .NET CLR 1.1.4322)
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.121 Safari/535.2
+0 4
+Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+0 10
+Mozilla/5.0 (Linux; Android 10; CPH1931 Build/QKQ1.200209.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 79
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
+0 1
+Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.3 (KHTML, like Gecko) Maxthon/3.3.3.1000 Chrome/16.0.883.0 Safari/535.3
+0 2
+Mozilla/5.0 (Linux; Android 8.1.0; SM-G610F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+0 50
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 20
+Cpanel-HTTP-Client/1.0
+0 9
+Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; MRA 5.9 (build 4953); .NET CLR 1.1.4322; .NET CLR 2.0.50727; 
+0 1
+python-requests/2.25.1
+0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36
+0 42
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+0 21
+Mozilla/5.0 (Linux; Android 9; MRD-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.36
+0 46
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)
+0 1
+Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://
+0 8
+Mozilla/5.0 (Linux; Android 7.0; Moto G (4)) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Mobile Safari/537.36 C
+0 336
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.268
+0 45
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; IEeleven; rv:11.0) like Gecko
+0 5
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.46 Safari/535.11
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+0 8
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 2
+Mozilla/5.0 (Windows NT 6.1; WOW64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36
+0 74
+Mozilla/5.0 (Linux; Android 10; Redmi Note 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.101 Mobile Safari/537.3
+0 101
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4143.7 Safari/537.36 Chrom
+0 328
+Mozilla/5.0 (Windows NT 6.3; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0
+0 13
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.90 Mobile S
+0 130
+\"Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27\"
+0 3
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
